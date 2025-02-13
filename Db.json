@@ -1,0 +1,154 @@
+{
+  "transactions": [
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "Pembebanan",
+      "deskripsi": "-",
+      "jumlah": 6252573
+    },
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "Pembebanan",
+      "deskripsi": "-",
+      "jumlah": 50000000
+    },
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "PanjarAsrul",
+      "deskripsi": "-",
+      "jumlah": 21703729
+    },
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "PanjarWidodo",
+      "deskripsi": "-",
+      "jumlah": 3000000
+    },
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "BankCGSMasuk",
+      "deskripsi": "-",
+      "jumlah": 33672700
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "PenyelPanjarAsrul",
+      "deskripsi": "-",
+      "jumlah": 5765318
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "PanjarAsrul",
+      "deskripsi": "-",
+      "jumlah": 10000000
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 3101873
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 1294371
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 1552000
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 21000000
+    },
+    {
+      "tanggal": "2025-01-04",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 1369074
+    },
+    {
+      "tanggal": "2025-01-03",
+      "kategori": "Pembebanan",
+      "deskripsi": "-",
+      "jumlah": 24703729
+    },
+    {
+      "tanggal": "2025-01-08",
+      "kategori": "BankCGSMasuk",
+      "deskripsi": "-",
+      "jumlah": 3522500
+    },
+    {
+      "tanggal": "2025-01-08",
+      "kategori": "BankCGSMasuk",
+      "deskripsi": "-",
+      "jumlah": 13875000
+    },
+    {
+      "tanggal": "2025-01-08",
+      "kategori": "BankCGSKeluar",
+      "deskripsi": "-",
+      "jumlah": 13875000
+    },
+    {
+      "tanggal": "2025-01-09",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 1926000
+    },
+    {
+      "tanggal": "2025-01-08",
+      "kategori": "BankCGSMasuk",
+      "deskripsi": "-",
+      "jumlah": 1097000
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "PenyelPanjarAsrul",
+      "deskripsi": "-",
+      "jumlah": 10150373
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "PanjarAsrul",
+      "deskripsi": "-",
+      "jumlah": 10000000
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 7895519
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 1264845
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 990009
+    },
+    {
+      "tanggal": "2025-01-11",
+      "kategori": "Biaya",
+      "deskripsi": "-",
+      "jumlah": 600000
+    },
+    {
+      "tanggal": "2025-01-13",
+      "kategori": "Pembebanan",
+      "deskripsi": "-",
+      "jumlah": 50000000
+    }
+  ]
+}
